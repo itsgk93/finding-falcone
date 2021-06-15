@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/itsgk93/finding-falcone/static/css/main.ac01e043.chunk.css",
-    "main.js": "/itsgk93/finding-falcone/static/js/main.8a9715c5.chunk.js",
-    "main.js.map": "/itsgk93/finding-falcone/static/js/main.8a9715c5.chunk.js.map",
-    "runtime~main.js": "/itsgk93/finding-falcone/static/js/runtime~main.726b844e.js",
-    "runtime~main.js.map": "/itsgk93/finding-falcone/static/js/runtime~main.726b844e.js.map",
-    "static/js/2.b34c1a1d.chunk.js": "/itsgk93/finding-falcone/static/js/2.b34c1a1d.chunk.js",
-    "static/js/2.b34c1a1d.chunk.js.map": "/itsgk93/finding-falcone/static/js/2.b34c1a1d.chunk.js.map",
-    "index.html": "/itsgk93/finding-falcone/index.html",
-    "precache-manifest.28e70879aeff1ed0ec1e4c60bb0667fd.js": "/itsgk93/finding-falcone/precache-manifest.28e70879aeff1ed0ec1e4c60bb0667fd.js",
-    "service-worker.js": "/itsgk93/finding-falcone/service-worker.js",
-    "static/css/main.ac01e043.chunk.css.map": "/itsgk93/finding-falcone/static/css/main.ac01e043.chunk.css.map"
+    "main.css": "/finding-falcone/static/css/main.ac01e043.chunk.css",
+    "main.js": "/finding-falcone/static/js/main.e3553e20.chunk.js",
+    "main.js.map": "/finding-falcone/static/js/main.e3553e20.chunk.js.map",
+    "runtime~main.js": "/finding-falcone/static/js/runtime~main.ed3899b0.js",
+    "runtime~main.js.map": "/finding-falcone/static/js/runtime~main.ed3899b0.js.map",
+    "static/js/2.b34c1a1d.chunk.js": "/finding-falcone/static/js/2.b34c1a1d.chunk.js",
+    "static/js/2.b34c1a1d.chunk.js.map": "/finding-falcone/static/js/2.b34c1a1d.chunk.js.map",
+    "index.html": "/finding-falcone/index.html",
+    "precache-manifest.a2ed210be362aec5a228721afc4ee3f7.js": "/finding-falcone/precache-manifest.a2ed210be362aec5a228721afc4ee3f7.js",
+    "service-worker.js": "/finding-falcone/service-worker.js",
+    "static/css/main.ac01e043.chunk.css.map": "/finding-falcone/static/css/main.ac01e043.chunk.css.map"
   }
 }

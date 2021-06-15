@@ -1,0 +1,9 @@
+export const PENDING = "PENDING";
+export const ERROR = "ERROR";
+export const FULFILLED = "FULFILLED";
+export const SEARCHING = "SEARCHING";
+export const SEARCHED = "SEARCHED";
+export const UPDATE_TIME = "UPDATE_TIME";
+export const ADD_QUANTITY = "ADD_QUANTITY";
+export const SUB_QUANTITY = "SUB_QUANTITY";
+export const FETCH = "FETCH";

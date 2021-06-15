@@ -12,7 +12,7 @@ export default class FinalPage extends Component {
         <center>
           <p>
             {status == "success"
-              ? "Success ! Congratulation on Finding Falcone. King Shan is mighty pleased."
+              ? "Success ! Congratulations on Finding Falcone. King Shan is mighty pleased."
               : "Oops ! Better Luck Next Time"}
           </p>
           <br />

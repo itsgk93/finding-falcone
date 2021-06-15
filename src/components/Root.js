@@ -5,8 +5,8 @@ import { reset } from "./actions/actionCreator";
 import FinalPage from "./FinalPage";
 import Error from "./utils/Error";
 import Loading from "./utils/Loading";
-import Header from "./header/Header";
-import Footer from "./footer/Footer";
+import Header from "./sections/header/Header";
+import Footer from "./sections/footer/Footer";
 
 class Root extends Component {
   constructor(props) {

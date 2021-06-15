@@ -1,7 +1,8 @@
 # find-falcone
-![](img.png)
 
-## Available Scripts
+For Live [Demo](https://itsgk93.github.io/finding-falcone)
+
+## Steps to run the project
 
 In the project directory
 first install all dependencies run following command
@@ -14,7 +15,4 @@ To run the app in the development mode run following command
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-To test the app run following command
-
-### `npm test`
 

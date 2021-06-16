@@ -61,6 +61,13 @@ export function updateTime(val) {
   };
 }
 
+export function fulfilled(data) {
+  return {
+    type: FULFILLED,
+    payload: data,
+  };
+}
+
 export function pending() {
   return {
     type: PENDING,
@@ -77,13 +84,6 @@ export function error(err) {
       status: "error",
       error: err,
     },
-  };
-}
-
-export function fulfilled(data) {
-  return {
-    type: FULFILLED,
-    payload: data,
   };
 }
 

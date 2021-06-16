@@ -29,16 +29,6 @@ class Root extends Component {
     this.props.reset();
   }
 
-  isProblemSolved = () => {
-    if (
-      this.props.store.status == "success" ||
-      this.props.store.status == "false"
-    ) {
-      return true;
-    }
-    return false;
-  };
-
   isLoading = () => {
     const { status } = this.props.store;
     return status == "Loading" || status == "Searching";
@@ -47,6 +37,16 @@ class Root extends Component {
   isError = () => {
     console.log(this.props.store.error);
     return this.props.store.error.trim().length > 0;
+  };
+
+  isProblemSolved = () => {
+    if (
+      this.props.store.status == "success" ||
+      this.props.store.status == "false"
+    ) {
+      return true;
+    }
+    return false;
   };
 
   render() {
